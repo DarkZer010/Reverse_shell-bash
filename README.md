@@ -7,7 +7,7 @@
 - Clonar repositório
 `clone git https://github.com/DarkZer010/Reverse_shell-bash`
 
-- entrar na massa
+- entrar na pasta
 `cd Reverse_shell-bash`
 
 - Altere como variáveis `RHOST` e `RPORT` para o fim IP e porta do seu servidor de TCP reverso.
