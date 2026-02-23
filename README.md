@@ -18,7 +18,7 @@
 
 ## Requisitos
 
-- Um servidor de TCP reverso configurado e ouvindo na porta específica em `RELATO`
+- Um servidor de TCP reverso configurado corretamente
 - Permissões suficientes para executar o script
 
 ## Aviso
