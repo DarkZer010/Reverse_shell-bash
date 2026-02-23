@@ -10,7 +10,7 @@
 - entrar na massa
 `cd Reverse_shell-bash`
 
-- Altere como variáveis `RHOST` e `RELATÓRIORELATÓRIO para o fim IP e porta do seu servidor de TCP reverso.
+- Altere como variáveis `RHOST` e `RPORT` para o fim IP e porta do seu servidor de TCP reverso.
 `nano reverse_shell.sh`
 
 - faça o mesmo executar esse arquivo
