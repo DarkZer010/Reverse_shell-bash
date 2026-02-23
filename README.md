@@ -1,6 +1,6 @@
 # Reverse shell bash
 
-**Um script bash para criar uma reversão de shell.Um script bash para criar uma reversão de shell.Um script bash para criar uma reversão de shell.**
+**Um script bash para colocar se conectar ao cliente do seu reverse shell**
 
 ## Instalação
 
