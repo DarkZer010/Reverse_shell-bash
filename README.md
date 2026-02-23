@@ -1,6 +1,6 @@
 # Reverse shell bash
 
-**Um script bash para colocar se conectar ao cliente do seu reverse shell**
+**Um script bash para se conectar ao cliente do seu reverse shell**
 
 ## Instalação
 
