@@ -5,7 +5,7 @@
 ## Instalação
 
 - Clonar repositório
-`clone git https://github.com/DarkZer010/Reverse_shell-bash`
+`git clone https://github.com/DarkZer010/Reverse_shell-bash`
 
 - entrar na pasta
 `cd reverse_shell.sh`
