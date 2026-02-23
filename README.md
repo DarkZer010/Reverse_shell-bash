@@ -8,7 +8,7 @@
 `git clone https://github.com/DarkZer010/Reverse_shell-bash`
 
 - entrar na pasta
-`cd reverse_shell.sh`
+`cd Reverse_shell-bash`
 
 - Altere como variáveis `RHOST` e `RPORT` para o fim IP e porta do seu servidor de TCP reverso.
 `nano reverse_shell.sh`
